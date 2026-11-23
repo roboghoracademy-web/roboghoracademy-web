@@ -1,16 +1,12 @@
-#🤖 RoboGhor Academy
+# 🤖 RoboGhor Academy
 
-Empowering Future Innovators Through Robotics, Engineering, Programming & AI.
+### Empowering Future Innovators Through Robotics, Engineering, Programming & AI.
 
-Welcome to RoboGhor Academy — a robotics, engineering, and technology initiative founded by Ali Rayhan in Bangladesh.
-
-Our mission is to empower the next generation through robotics, electronics, programming, research, and smart automation.
-
-We believe in learning by building, experimenting, and creating real-world technological solutions.
+Welcome to **RoboGhor Academy** — a robotics, engineering, and technology initiative founded by **Ali Rayhan** in Bangladesh.
 
 ---
 
-##👨‍💻 Founder & Owner
+## 👨‍💻 Founder & Owner
 
 Ali Rayhan
 Founder & Owner — RoboGhor Academy
