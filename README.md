@@ -86,7 +86,7 @@ Advanced Technologies
 
 🌟 Featured Project: TransitGuard
 
-TransitGuard: An Intelligent Automatic Fire Suppression and Emergency Alert System for Transportation and Critical Infrastructure.
+An Intelligent Automatic Fire Suppression and Emergency Alert System for Transportation and Critical Infrastructure
 
 TransitGuard is an intelligent safety and emergency response project designed to detect fire hazards, activate automatic fire suppression, and provide emergency alerts.
 
@@ -166,10 +166,8 @@ Most Used Languages
 
 ---
 
-<p align="center">LEARN • BUILD • INNOVATE
+LEARN • BUILD • INNOVATE
 
 Building Tomorrow Through Technology.
 
 Made with ❤️ by RoboGhor Academy
-
-</p>
