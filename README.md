@@ -1,4 +1,4 @@
-🤖 RoboGhor Academy
+#🤖 RoboGhor Academy
 
 Empowering Future Innovators Through Robotics, Engineering, Programming & AI.
 
@@ -10,7 +10,7 @@ We believe in learning by building, experimenting, and creating real-world techn
 
 ---
 
-👨‍💻 Founder & Owner
+##👨‍💻 Founder & Owner
 
 Ali Rayhan
 Founder & Owner — RoboGhor Academy
