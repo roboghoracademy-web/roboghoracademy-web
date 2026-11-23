@@ -21,21 +21,21 @@ My goal is to transform creative ideas into practical technologies that can make
 
 ---
 
-🚀 What We Do
+## 🚀 What We Do
 
-- 🤖 Robotics & Automation
-- ⚡ Electronics & Circuit Design
-- 💻 Programming & Software Development
-- 🔌 Embedded Systems Development
-- 🌐 Internet of Things (IoT)
-- 🧠 AI-Based Projects & Smart Solutions
-- 🔬 Research & Innovation
-- 🎓 Academic & University Projects
-- ⚙️ Customized Engineering Solutions
+### - 🤖 Robotics & Automation
+### - ⚡ Electronics & Circuit Design
+### - 💻 Programming & Software Development
+### - 🔌 Embedded Systems Development
+### - 🌐 Internet of Things (IoT)
+### - 🧠 AI-Based Projects & Smart Solutions
+### - 🔬 Research & Innovation
+### - 🎓 Academic & University Projects
+### - ⚙️ Customized Engineering Solutions
 
 ---
 
-🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 Robotics & Embedded Systems
 
@@ -67,20 +67,20 @@ Advanced Technologies
 
 ---
 
-🔬 Project Categories
+## 🔬 Project Categories
 
-- 🤖 Robotics & Autonomous Systems
-- ⚡ Electronics & Embedded Systems
-- 🚌 Smart Transportation Systems
-- 🔥 Fire Detection & Safety Automation
-- 🌐 IoT-Based Monitoring Systems
-- 🧠 AI-Integrated Projects
-- 🎓 Academic & University Projects
-- ⚙️ Custom Engineering Solutions
+### - 🤖 Robotics & Autonomous Systems
+### - ⚡ Electronics & Embedded Systems
+### - 🚌 Smart Transportation Systems
+### - 🔥 Fire Detection & Safety Automation
+### - 🌐 IoT-Based Monitoring Systems
+### - 🧠 AI-Integrated Projects
+### - 🎓 Academic & University Projects
+### - ⚙️ Custom Engineering Solutions
 
 ---
 
-🌟 Featured Project: TransitGuard
+## 🌟 Featured Project: TransitGuard
 
 An Intelligent Automatic Fire Suppression and Emergency Alert System for Transportation and Critical Infrastructure
 
@@ -109,19 +109,19 @@ Technologies & Platforms
 
 ---
 
-🎯 Our Mission
+## 🎯 Our Mission
 
 To make robotics, engineering, and modern technology more accessible to students and young innovators.
 
 We aim to create an environment where learners can develop practical skills, explore new ideas, and build innovative solutions.
 
-🔭 Our Vision
+## 🔭 Our Vision
 
 To become a trusted platform for robotics education, engineering innovation, research, and technology development in Bangladesh and beyond.
 
 ---
 
-🤝 Collaboration & Opportunities
+## 🤝 Collaboration & Opportunities
 
 We welcome collaboration in:
 
@@ -136,7 +136,7 @@ We welcome collaboration in:
 
 ---
 
-📊 GitHub Activity
+## 📊 GitHub Activity
 
 Profile Views
 
@@ -152,7 +152,7 @@ Most Used Languages
 
 ---
 
-📍 Contact & Information
+## 📍 Contact & Information
 
 - Founder: Ali Rayhan
 - Organization: RoboGhor Academy
